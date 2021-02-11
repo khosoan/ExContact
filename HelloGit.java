@@ -18,7 +18,8 @@ public class HelloGit {
     public static void main(String[] args) {
         
         String message= "Hello Git";
-        System.out.println(message);
+        int number = 8;
+        System.out.println(message + number);
     }
 
 }
